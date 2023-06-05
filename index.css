@@ -24,17 +24,14 @@ html{
 	background-size:cover;
 	background-attachment: fixed;
 }
-h6{
-	text-align: center;
-	color: snow;
-}
-h2{
-	text-align: center;
-}
 }
 i{
 	font-family: cursive;
 }
 .icons:hover{
 	color: peachpuff;
+}
+h6{
+	text-align: center;
+	color: snow;
 }
